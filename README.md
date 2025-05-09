@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  Content Creator | Gamer | Tech Enthusiast
+  Developer | Gamer | Tech Enthusiast
 </p>
 
 <div align="center">
