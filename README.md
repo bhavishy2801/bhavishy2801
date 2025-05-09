@@ -27,11 +27,11 @@
 
  | Bhavishy Agrawal | YouTube | Instagram | LinkedIn | Facebook |
 | --- | --- | --- | --- | --- |
-| [![Bhavishy Agrawal](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Bhavishy+Agrawal&size=square)](https://bhavishyagrawal.vercel.app/) | [![JEEzy0128](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40JEEzy0128&subtitle=@JEEzy0128&size=square)](https://www.youtube.com/@JEEzy0128) | [![celexa.fr_2801](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fcelexa.fr_2801%2F&subtitle=@celexa.fr_2801&size=square)](https://www.instagram.com/knightgamer87/) | [![Bhavishy Agrawal](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbhavishy2801%2F&subtitle=@Bhavishy+Agrawal&size=square)](https://www.linkedin.com/in/bhavishy2801/) | [![Bhavishy Agrawal](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fkenan.gain&subtitle=@Bhavishy+Agrawal&size=square)](https://facebook.com/bhavishy.agrawal) |
+| [![Bhavishy Agrawal](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Bhavishy+Agrawal&size=square)](https://bhavishyagrawal.vercel.app/) | [![JEEzy0128](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40JEEzy0128&subtitle=@JEEzy0128&size=square)](https://www.youtube.com/@JEEzy0128) | [![celexa.fr_2801](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fcelexa.fr_2801%2F&subtitle=@celexa.fr_2801&size=square)](https://www.instagram.com/knightgamer87/) | [![Bhavishy Agrawal](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbhavishy2801%2F&subtitle=@bhavishy2801&size=square)](https://www.linkedin.com/in/bhavishy2801/) | [![Bhavishy Agrawal](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fbhavishy2801&subtitle=@bhavishy2801&size=square)](https://facebook.com/bhavishy2801) |
 
 | Twitch | Twitter | Reddit | Discord | GitHub |
 | --- | --- | --- | --- | --- |
-| [![bhavishy2801](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ftwitch.tv%2Fbhavishy2801&subtitle=@bhavishy2801&size=square)](https://twitch.tv/bhavishy2801) | [![BhavishyAgrawal](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2FAgrawalBha48438&subtitle=@BhavishyAgrawal&size=square)](https://x.com/AgrawalBha48438) | [![Bhavishy Agrawal](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FSea_Shell_2801&subtitle=r/Bhavishy+Agrawal&size=square)](https://www.reddit.com/user/Sea_Shell_2801) | [![rocker2801](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FYdDyV6QqEN&subtitle=rocker2801&size=square)](https://discordapp.com/users/rocker1647) | [![Bhavishy Agrawal](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fbhavishy2801&subtitle=%2FBhavishy+Agrawal&size=square)](https://github.com/bhavishy2801) |
+| [![bhavishy2801](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ftwitch.tv%2Fbhavishy2801&subtitle=@bhavishy2801&size=square)](https://twitch.tv/bhavishy2801) | [![BhavishyAgrawal](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2FAgrawalBha48438&subtitle=@BhavishyAgrawal&size=square)](https://x.com/AgrawalBha48438) | [![Bhavishy Agrawal](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FSea_Shell_2801&subtitle=Bhavishy+Agrawal&size=square)](https://www.reddit.com/user/Sea_Shell_2801) | [![rocker2801](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FYdDyV6QqEN&subtitle=rocker2801&size=square)](https://discordapp.com/users/rocker1647) | [![Bhavishy Agrawal](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fbhavishy2801&subtitle=bhavishy2801&size=square)](https://github.com/bhavishy2801) |
 
 
 
@@ -41,79 +41,79 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KenanGain&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
+  <img src="https://komarev.com/ghpvc/?username=bhavishy2801&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
 
 
 <h2 align="center">🚀 About Me</h2>
 
-As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud Computing, Artificial Intelligence/Machine Learning, and high-quality streaming technologies. With a proven track record of driving innovation, I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
+I am an adaptable developer with expertise in web, app, gnd game development, combined with a strong foundation in competitive programming. Beyond coding, I am also skilled in video editing, photo editing, and 3D modeling, using a variety of software. My passion lies in creating visually appealing and technically efficient projects, whether it's a high-performance application, an immersive game, or stunning visual content.
 
 <h3 align="center">Git Stats</h3>
 
 <div align="center">
  
-  <img src="https://streak-stats.demolab.com/?user=KenanGain&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=bhavishy2801&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   <br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KenanGain&custom_title=Kenan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavishy2801&custom_title=Bhavishy's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 <br>
 <div align="center">
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenanGain&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavishy2801&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KenanGain&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhavishy2801&theme=highcontrast&hide_border=true" alt="Repos Per Language">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KenanGain&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhavishy2801&theme=highcontrast&hide_border=true" alt="Most Commit Language">
     </td>
   </tr>
 </table>
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=KenanGain&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=bhavishy2801&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Bhavishy's GitHub stats">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KenanGain&theme=highcontrast&hide_border=true">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhavishy2801&theme=highcontrast&hide_border=true">
 
 ### Top Repositories
 <div align="center">
   <table>
     <tr>
       <td>
-        <a href="https://github.com/KenanGain/fast-gemini-nano">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/bhavishy2801/whispr">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhavishy2801&repo=whispr&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/KenanGain/Weather-3d-ai-app.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/KenanGain/moviedjangoai">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/KenanGain/speech-to-text.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/KenanGain/portfolio">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhavishy2801&repo=portfolio&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/KenanGain/SmolLM">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=SmolLM&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/Eternity0207/IAmArsh">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eternity0207&repo=IAmArsh&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/KenanGain/Llama-3.2_running_locally">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=Llama-3.2_running_locally&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/Eternity0207/Typer-X">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eternity0207&repo=Typer-X&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Eternity0207/postverse-anime">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eternity0207&repo=postverse-anime&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Eternity0207/volunteersiitj">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eternity0207&repo=volunteersiitj&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
