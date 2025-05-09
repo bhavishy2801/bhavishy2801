@@ -11,7 +11,7 @@
 <h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Bhavishy Agrawal</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Video Editor+Engineer;AI+Engineer;YouTuber;Streamer;Editor;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Versatile+Developer;Full-Stack+Web+Developer;App+Developer;Game+Developer;Editor;YouTuber;Streamer;" alt="Typing SVG" />
 
 </p>
 
@@ -25,13 +25,13 @@
   <h2>🌐 Connect with Me</h2>
   <p>Discover my work and connect on these platforms!</p>
 
- | Kenan Gain | YouTube | Instagram | LinkedIn | Facebook |
+ | Bhavishy Agrawal | YouTube | Instagram | LinkedIn | Facebook |
 | --- | --- | --- | --- | --- |
-| [![Kenan Gain](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Kenan+Gain&size=square)](https://www.kenangain.com/) | [![knightgamer87](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40KnightGamer87&subtitle=@knightgamer87&size=square)](https://www.youtube.com/@KnightGamer87) | [![knightgamer87](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@knightgamer87&size=square)](https://www.instagram.com/knightgamer87/) | [![Kenan Gain](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Kenan+Gain&size=square)](https://www.linkedin.com/in/kenan-gain-33048518a/) | [![Kenan Gain](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fkenan.gain&subtitle=@Kenan+Gain&size=square)](https://facebook.com/kenan.gain) |
+| [![Bhavishy Agrawal](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Bhavishy+Agrawal&size=square)](https://bhavishyagrawal.vercel.app/) | [![JEEzy0128](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40JEEzy0128&subtitle=@JEEzy0128&size=square)](https://www.youtube.com/@JEEzy0128) | [![celexa.fr_2801](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fcelexa.fr_2801%2F&subtitle=@celexa.fr_2801&size=square)](https://www.instagram.com/knightgamer87/) | [![Bhavishy Agrawal](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbhavishy2801%2F&subtitle=@Bhavishy+Agrawal&size=square)](https://www.linkedin.com/in/bhavishy2801/) | [![Bhavishy Agrawal](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fkenan.gain&subtitle=@Bhavishy+Agrawal&size=square)](https://facebook.com/bhavishy.agrawal) |
 
 | Twitch | Twitter | Reddit | Discord | GitHub |
 | --- | --- | --- | --- | --- |
-| [![knightgamer2910](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ftwitch.tv%2Fknightgamer2910&subtitle=@knightgamer2910&size=square)](https://twitch.tv/knightgamer2910) | [![KenanGain](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fgain_kenan&subtitle=@KenanGain&size=square)](https://x.com/gain_kenan) | [![Automated_Artistry](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FAutomated_Artistry&subtitle=r/Automated_Artistry&size=square)](https://www.reddit.com/user/Automated_Artistry) | [![Knight Gamer](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FYdDyV6QqEN&subtitle=Knight+Gamer&size=square)](https://discord.gg/YdDyV6QqEN) | [![Kenan Gain](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKenanGain&subtitle=%2FKenan+Gain&size=square)](https://github.com/KenanGain) |
+| [![bhavishy2801](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ftwitch.tv%2Fbhavishy2801&subtitle=@bhavishy2801&size=square)](https://twitch.tv/bhavishy2801) | [![BhavishyAgrawal](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2FAgrawalBha48438&subtitle=@BhavishyAgrawal&size=square)](https://x.com/AgrawalBha48438) | [![Bhavishy Agrawal](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FSea_Shell_2801&subtitle=r/Bhavishy+Agrawal&size=square)](https://www.reddit.com/user/Sea_Shell_2801) | [![rocker2801](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FYdDyV6QqEN&subtitle=rocker2801&size=square)](https://discordapp.com/users/rocker1647) | [![Bhavishy Agrawal](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fbhavishy2801&subtitle=%2FBhavishy+Agrawal&size=square)](https://github.com/bhavishy2801) |
 
 
 
