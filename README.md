@@ -325,12 +325,12 @@ I am an adaptable developer with expertise in web, app, gnd game development, co
   </tr>
   <tr>
     <td>
-      <a href="https://stackoverflow.com/users/21519409/kenan-gain">
-        <img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=21519409" alt="Stack Overflow Card for bhavishy2801">
+      <a href="https://stackoverflow.com/users/30492551/bhavishy-agrawal">
+        <img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=30492551" alt="Stack Overflow Card for bhavishy2801">
       </a>
     </td>
     <td>
-      <img src="https://github-stackoverflow-readme.vercel.app/?userId=21519409" alt="Stack Overflow Stats for Bhavishy">
+      <img src="https://github-stackoverflow-readme.vercel.app/?userId=30492551" alt="Stack Overflow Stats for Bhavishy">
     </td>
   </tr>
 </table>
