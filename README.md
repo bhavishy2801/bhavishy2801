@@ -8,7 +8,7 @@
   </a>
 </div>
 
-<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Bhavishy Agrawal</h1>
+<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/bhavishy2801/bhavishy2801/blob/main/icons/wave.gif" width="48"></a> , I'm Bhavishy Agrawal</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Versatile+Developer;Full-Stack+Web+Developer;App+Developer;Game+Developer;Editor;YouTuber;Streamer;" alt="Typing SVG" />
@@ -88,7 +88,7 @@ I am an adaptable developer with expertise in web, app, gnd game development, co
         </a>
       </td>
       <td>
-        <a href="https://github.com/KenanGain/portfolio">
+        <a href="https://github.com/bhavishy2801/portfolio">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhavishy2801&repo=portfolio&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
@@ -123,8 +123,8 @@ I am an adaptable developer with expertise in web, app, gnd game development, co
 
 
 ### GitHub Contribution Chart
-<a href="https://github.com/KenanGain">
-    <img src="https://ghchart.rshah.org/KenanGain" alt="KenanGain's GitHub Contribution Chart">
+<a href="https://github.com/bhavishy2801">
+    <img src="https://ghchart.rshah.org/bhavishy2801" alt="Bhavishy Agrawal's GitHub Contribution Chart">
 </a>
 
 
@@ -133,9 +133,9 @@ I am an adaptable developer with expertise in web, app, gnd game development, co
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
   </summary>
   
-  <img src="https://myreadme.vercel.app/api/embed/KenanGain?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="KenanGain's GitHub Stats">
-      <img src="https://github-readme-bento.vercel.app/stats/KenanGain?theme=dark" alt="KenanGain's GitHub Stats">
-      <img src="https://stats.dooboo.io/api/github-stats-advanced?login=KenanGain" alt="Advanced GitHub Stats for KenanGain" width="400">
+  <img src="https://myreadme.vercel.app/api/embed/bhavishy2801?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Bhavishy Agrawal's GitHub Stats">
+      <img src="https://github-readme-bento.vercel.app/stats/bhavishy2801?theme=dark" alt="Bhavishy's GitHub Stats">
+      <img src="https://stats.dooboo.io/api/github-stats-advanced?login=bhavishy2801" alt="Advanced GitHub Stats for Bhavishy Agrawal" width="400">
 
 
 </details>
@@ -143,19 +143,19 @@ I am an adaptable developer with expertise in web, app, gnd game development, co
 
 <br>
 
-### KenanGain/README.md activity
+### bhavishy2801/README.md activity
 <img width="100%" src="https://repobeats.axiom.co/api/embed/48c98af9cae40b4ae2cf354a0f544a52eb743a9f.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
 
-[![Forkers repo roster for @KenanGain/KenanGain](https://reporoster.com/forks/dark/KenanGain/KenanGain)](https://github.com/KenanGain/KenanGain/network/members)
+[![Forkers repo roster for @bhavishy2801/bhavishy2801](https://reporoster.com/forks/dark/bhavishy2801/bhavishy2801)](https://github.com/bhavishy2801/bhavishy2801/network/members)
 
-[![Repography](https://reporoster.com/stars/dark/KenanGain/KenanGain)](https://github.com/KenanGain/KenanGain)
+[![Repography](https://reporoster.com/stars/dark/bhavishy2801/bhavishy2801)](https://github.com/bhavishy2801/bhavishy2801)
 
 <details>
-  <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for KenanGain&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
+  <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for Bhavishy&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
 
   <h2>Star History Chart</h2>
-  <a href="https://star-history.com/#KenanGain/KenanGain&Date">
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=KenanGain/KenanGain&type=Date&theme=dark" />
+  <a href="https://star-history.com/#bhavishy2801/bhavishy2801&Date">
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=bhavishy2801/bhavishy2801&type=Date&theme=dark" />
   </a>
 
 </details>
@@ -165,8 +165,8 @@ I am an adaptable developer with expertise in web, app, gnd game development, co
 <details>
   <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
   <br>
-    <img src="https://github-profile-trophy.vercel.app/?username=KenanGain&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy">
-  <img src="https://stats.dooboo.io/api/github-trophies?login=KenanGain" alt="GitHub Trophies for KenanGain">
+    <img src="https://github-profile-trophy.vercel.app/?username=bhavishy2801&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy">
+  <img src="https://stats.dooboo.io/api/github-trophies?login=bhavishy2801" alt="GitHub Trophies for bhavishy2801">
 </details>
 
 
@@ -177,7 +177,7 @@ I am an adaptable developer with expertise in web, app, gnd game development, co
 
 # Videos & Documentries
 
-[![AI Intro](https://github.com/KenanGain/KenanGain/blob/main/Gif/AIintromainmain-ezgif.com-video-to-gif-converter.gif)](https://www.linkedin.com/feed/update/urn:li:activity:7290621709374676994/)
+[![AI Intro](https://github.com/bhavishy2801/bhavishy2801/blob/main/Gif/AIintromainmain-ezgif.com-video-to-gif-converter.gif)](https://www.linkedin.com/feed/update/urn:li:activity:7290621709374676994/)
       <p>
         <a href="https://www.linkedin.com/feed/update/urn:li:activity:7290621709374676994/">𝐁𝐞𝐬𝐭 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐒𝐡𝐨𝐰𝐜𝐚𝐬𝐞 𝐨𝐧 𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧 EVER...</a>
       </p>
@@ -320,7 +320,7 @@ I am an adaptable developer with expertise in web, app, gnd game development, co
 
 # Coming soon
 
- <img  width="25%" src="https://github.com/KenanGain/KenanGain/blob/main/Gif/iron-man-tony-stark.gif" alt="Work in progress"/>
+ <img  width="25%" src="https://github.com/bhavishy2801/bhavishy2801/blob/main/Gif/iron-man-tony-stark.gif" alt="Work in progress"/>
 
 <h2>🚀 Super GPT: The AI Overachiever You Didn’t Know You Needed</h2>
 
@@ -346,21 +346,21 @@ I am an adaptable developer with expertise in web, app, gnd game development, co
 <table>
   <tr>
     <td align="center" width="300" height="200">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/projectimg/saraai.gif"  alt="Sara AI"/>
+      <img src="https://github.com/bhavishy2801/bhavishy2801/blob/main/projectimg/saraai.gif"  alt="Sara AI"/>
       <br>
       <strong>Sara AI for Canadian Tire</strong>
       <br>
       AI-enhanced shopping experience
     </td>
     <td align="center" width="300" height="200">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/projectimg/weatheraiapp3.gif"  alt="Weather 3D AI App"/>
+      <img src="https://github.com/bhavishy2801/bhavishy2801/blob/main/projectimg/weatheraiapp3.gif"  alt="Weather 3D AI App"/>
       <br>
       <strong>Weather-3D-AI App</strong>
       <br>
       Modern design with shadcn UI, AI integration, Wikipedia, and local news widgets
     </td>
     <td align="center" width="300" height="200">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/projectimg/gemininano.gif" alt="Fast Gemini Nano"/>
+      <img src="https://github.com/bhavishy2801/bhavishy2801/blob/main/projectimg/gemininano.gif" alt="Fast Gemini Nano"/>
       <br>
       <strong>Fast-Gemini-Nano</strong>
       <br>
@@ -369,21 +369,21 @@ I am an adaptable developer with expertise in web, app, gnd game development, co
   </tr>
   <tr>
     <td align="center" width="300" height="200">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/falling-down-hiro-hamada.gif"  alt="AI Content Creation"/>
+      <img src="https://github.com/bhavishy2801/bhavishy2801/blob/main/Gif/falling-down-hiro-hamada.gif"  alt="AI Content Creation"/>
       <br>
       <strong>AI-Powered Content Creation</strong>
       <br>
       Automated content generation using various LLMs
     </td>
     <td align="center" width="300" height="200">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/projectimg/maplelawai.png"  alt="MapleLaw AI"/>
+      <img src="https://github.com/bhavishy2801/bhavishy2801/blob/main/projectimg/maplelawai.png"  alt="MapleLaw AI"/>
       <br>
       <strong>MapleLaw AI</strong>
       <br>
       Legal information assistant for Canadian citizens
     </td>
     <td align="center" width="300" height="200">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/pcbuild.gif"  alt="4K60 Streaming"/>
+      <img src="https://github.com/bhavishy2801/bhavishy2801/blob/main/Gif/pcbuild.gif"  alt="4K60 Streaming"/>
       <br>
       <strong>4K60 Streaming Setup</strong>
       <br>
@@ -392,14 +392,14 @@ I am an adaptable developer with expertise in web, app, gnd game development, co
   </tr>
   <tr>
     <td align="center" width="300" height="200">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/k8s-kubernetes.gif" width="300" alt="Cloud-Native Web Apps"/>
+      <img src="https://github.com/bhavishy2801/bhavishy2801/blob/main/Gif/k8s-kubernetes.gif" width="300" alt="Cloud-Native Web Apps"/>
       <br>
       <strong>Cloud-Native Web Apps</strong>
       <br>
       Next.js, React, Django with Docker & Kubernetes
     </td>
     <td align="center" width="300" height="200">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/billiondollars.gif" alt="Your Next Project?"/>
+      <img src="https://github.com/bhavishy2801/bhavishy2801/blob/main/Gif/billiondollars.gif" alt="Your Next Project?"/>
       <br>
       <strong>Next Project?</strong>
       <br>
@@ -414,7 +414,7 @@ I am an adaptable developer with expertise in web, app, gnd game development, co
 
 <div align="center">
   <h2 align="center" style="display: inline-flex; align-items: baseline;">
-    Socials Stats <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/connect.gif" height="30" style="margin-left: 5px;" />
+    Socials Stats <img src="https://github.com/bhavishy2801/bhavishy2801/blob/main/icons/connect.gif" height="30" style="margin-left: 5px;" />
   </h2>
 </div>
 
@@ -483,7 +483,7 @@ I am an adaptable developer with expertise in web, app, gnd game development, co
 [![Youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCJmBG8lD1-aj1HQr4PFT-XQ&layout=extruded&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)](https://www.youtube.com/@KnightGamer87)
 <h3 align="center">Leetcode Stats</h3>
 <p align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/kenangain2910?ext=heatmap"/>
+  <img align="center" src="https://leetcard.jacoblin.cool/bhavishy28012910?ext=heatmap"/>
 </p>
 
 <h3 align="center">Steam Profile</h3>
@@ -495,7 +495,7 @@ I am an adaptable developer with expertise in web, app, gnd game development, co
 
 <h3 align="center">Latest Dev.to</h3>
 
-![Latest Dev.to](https://latest-devto-post.vercel.app/api?username=kenangain)
+![Latest Dev.to](https://latest-devto-post.vercel.app/api?username=bhavishy2801)
 
 <br/>
 
@@ -513,7 +513,7 @@ I am an adaptable developer with expertise in web, app, gnd game development, co
   <tr>
     <!-- Dev Profile -->
     <td align="center">
-     <a href="https://app.daily.dev/kenangain"><img src="https://api.daily.dev/devcards/v2/2I8I8M5jrm9jGyAV4crFo.png?type=default&r=gnk" width="356" alt="Kenan Gain's Dev Card"/></a>
+     <a href="https://app.daily.dev/bhavishy2801"><img src="https://api.daily.dev/devcards/v2/2I8I8M5jrm9jGyAV4crFo.png?type=default&r=gnk" width="356" alt="Kenan Gain's Dev Card"/></a>
     </td>
     <!-- roadmap.sh Profile -->
     <td align="center">
@@ -524,7 +524,7 @@ I am an adaptable developer with expertise in web, app, gnd game development, co
 
 <h3 align="center">Stardev.io</h3>
 
-<a href="https://stardev.io/developers/KenanGain"><img alt="Check out KenanGain&apos;s profile on stardev.io" src="https://stardev.io/developers/KenanGain/badge/languages/global.svg" /></a>
+<a href="https://stardev.io/developers/bhavishy2801"><img alt="Check out bhavishy2801&apos;s profile on stardev.io" src="https://stardev.io/developers/bhavishy2801/badge/languages/global.svg" /></a>
 
 
 <h3 align="center">Stack overflow</h3>
@@ -536,11 +536,11 @@ I am an adaptable developer with expertise in web, app, gnd game development, co
   <tr>
     <td>
       <a href="https://stackoverflow.com/users/21519409/kenan-gain">
-        <img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=21519409" alt="Stack Overflow Card for KenanGain">
+        <img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=21519409" alt="Stack Overflow Card for bhavishy2801">
       </a>
     </td>
     <td>
-      <img src="https://github-stackoverflow-readme.vercel.app/?userId=21519409" alt="Stack Overflow Stats for KenanGain">
+      <img src="https://github-stackoverflow-readme.vercel.app/?userId=21519409" alt="Stack Overflow Stats for bhavishy2801">
     </td>
   </tr>
 </table>
@@ -759,7 +759,7 @@ I am an adaptable developer with expertise in web, app, gnd game development, co
       </td>
       <td align="center" style="border: none;">
 <!--         <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="50" height="50"/> -->
-        <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Tensorflow.gif" alt="TensorFlow" width="80" height="70" /><br>TensorFlow
+        <img src="https://github.com/bhavishy2801/bhavishy2801/blob/main/icons/Tensorflow.gif" alt="TensorFlow" width="80" height="70" /><br>TensorFlow
       </td>
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50"/><br>PyTorch
@@ -811,7 +811,7 @@ I am an adaptable developer with expertise in web, app, gnd game development, co
       </td>
       <td align="center" style="border: none;">
 <!--         <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="50" height="50" alt="Google Gemini"/> -->
-        <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Gemini.gif" alt="Gemini" width="80" height="80" /><br>Google Gemini
+        <img src="https://github.com/bhavishy2801/bhavishy2801/blob/main/icons/Gemini.gif" alt="Gemini" width="80" height="80" /><br>Google Gemini
       </td>
       <td align="center" style="border: none;">
         <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" alt="Hugging Face"/><br>Hugging Face
@@ -949,18 +949,18 @@ I am an adaptable developer with expertise in web, app, gnd game development, co
     </tr>
     <tr>
       <td>
-        <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/docker-pull-ubuntu.gif" />
+        <img src="https://github.com/bhavishy2801/bhavishy2801/blob/main/Gif/docker-pull-ubuntu.gif" />
       </td>
       <td>
-        <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/linus-tech.gif" />
+        <img src="https://github.com/bhavishy2801/bhavishy2801/blob/main/Gif/linus-tech.gif" />
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/feature-tree.gif" />
+        <img src="https://github.com/bhavishy2801/bhavishy2801/blob/main/Gif/feature-tree.gif" />
       </td>
       <td>
-        <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/do-not-run-python-python-computer.gif" />
+        <img src="https://github.com/bhavishy2801/bhavishy2801/blob/main/Gif/do-not-run-python-python-computer.gif" />
       </td>
     </tr>
   </table>
@@ -1026,7 +1026,7 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
   <table align="center">
     <tr>
       <th align="center">
-        <a href="https://www.buymeacoffee.com/kenangain" target="_blank">
+        <a href="https://www.buymeacoffee.com/bhavishy2801" target="_blank">
           <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;">
         </a>
       </th>
@@ -1048,10 +1048,10 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github.com/KenanGain/KenanGain/assets/123521687/72e4f7a9-a7fd-45d6-b582-ca4c8a1f2a36" alt="Buy Me a Coffee QR Code" width="150" height="150">
+        <img src="https://github.com/bhavishy2801/bhavishy2801/assets/123521687/72e4f7a9-a7fd-45d6-b582-ca4c8a1f2a36" alt="Buy Me a Coffee QR Code" width="150" height="150">
       </td>
       <td align="center">
-       <img src="https://github.com/KenanGain/KenanGain/assets/123521687/0a08e987-d7f8-48bd-a5a4-2c991190f9af" alt="PayPal QR Code" width="150" height="150">
+       <img src="https://github.com/bhavishy2801/bhavishy2801/assets/123521687/0a08e987-d7f8-48bd-a5a4-2c991190f9af" alt="PayPal QR Code" width="150" height="150">
       </td>
       <td align="center">
         <img src="https://github.com/user-attachments/assets/f7f4fefb-1a07-4390-b2ea-a4b40d4f19f6" alt="Stripe QR Code" width="150" height="150">
@@ -1077,10 +1077,10 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
   <tbody>
     <tr>
       <td align="center">
-        <a href="mailto:kenangain2910@gmail.com" target="_blank">
+        <a href="mailto:bhavishy28012910@gmail.com" target="_blank">
           <img src="https://img.icons8.com/color/96/000000/gmail--v1.png" alt="Email" style="width: 80px; margin: 10px;">
           <br>
-          kenangain2910@gmail.com
+          bhavishy28012910@gmail.com
         </a>
       </td>
       <td align="center">
@@ -1106,7 +1106,7 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
 <h3>
 <div align="center">
   
-⭐️ From [KenanGain](https://github.com/KenanGain) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
+⭐️ From [bhavishy2801](https://github.com/bhavishy2801) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
 
 
 </div>
