@@ -351,12 +351,6 @@ I am an adaptable developer with expertise in web, app, gnd game development, co
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <a href="https://nextjs.org/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=reactjs" width="50" height="50" alt="React.js"/>
-        </a>
-        <br>Next.js
-      </td>
-      <td align="center" style="border: none;">
         <a href="https://tailwindcss.com/" style="color: white;">
           <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/>
         </a>
@@ -449,80 +443,6 @@ I am an adaptable developer with expertise in web, app, gnd game development, co
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
       </td>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png" alt="Neo4j" width="100" height="40"/><br>Neo4j
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-<h3 align="center">Cloud Computing & DevOps</h3>
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="4" align="center" style="color: white;">Containerization & Orchestration</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>Docker
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/><br>Kubernetes
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://helm.sh/img/helm.svg" alt="Helm" width="50" height="50"/><br>Helm
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skaffold.dev/images/skaffold-logo-white.png" alt="Skaffold" width="50" height="50"/><br>Skaffold
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="3" align="center" style="color: white;">Cloud Providers</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50"/><br>Azure
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="50" height="50"/><br>GCP
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/><br>AWS
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="2" align="center" style="color: white;">Infrastructure as Code</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="50" height="50"/><br>Terraform
-      </td>
-        <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=ansible" alt="Terraform" width="50" height="50"/><br>Ansible
-       </td>
     </tr>
   </tbody>
 </table>
@@ -685,44 +605,6 @@ I am an adaptable developer with expertise in web, app, gnd game development, co
 </div>
 
 
-
-## 🎥 My YouTube Channel
-
-### My Videos
-
-<table>
-  <tr>
-    <td>
-      <a href="https://www.youtube.com/watch?v=cicZ6CvEpi0"><img src="https://img.youtube.com/vi/cicZ6CvEpi0/0.jpg" alt="Knight Gamer Setup 2.0" width="300"/></a>
-      <p align="center"><a href="https://www.youtube.com/watch?v=cicZ6CvEpi0">Knight Gamer Setup 2.0</a></p>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=znd-OlyoNyQ"><img src="https://img.youtube.com/vi/znd-OlyoNyQ/0.jpg" alt="Bora Bora (Valorant Montage) | 1440p" width="300"/></a>
-      <p align="center"><a href="https://www.youtube.com/watch?v=znd-OlyoNyQ">Bora Bora (Valorant Montage) | 1440p</a></p>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=CYP_E5epgEU"><img src="https://img.youtube.com/vi/CYP_E5epgEU/0.jpg" alt="Knight Gamer Logo" width="300"/></a>
-      <p align="center"><a href="https://www.youtube.com/watch?v=CYP_E5epgEU">Lean on</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://www.youtube.com/watch?v=1HN--BxRcb4"><img src="https://img.youtube.com/vi/1HN--BxRcb4/0.jpg" alt="Epic Gameplay Montage" width="300"/></a>
-      <p align="center"><a href="https://www.youtube.com/watch?v=1HN--BxRcb4">Epic Gameplay Montage</a></p>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=sdLwa-Ckri0"><img src="https://img.youtube.com/vi/sdLwa-Ckri0/0.jpg" alt="QHD 60FPS" width="300"/></a>
-      <p align="center"><a href="https://www.youtube.com/watch?v=sdLwa-Ckri0">QHD 60FPS</a></p>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=5avcAkIMUWw"><img src="https://img.youtube.com/vi/5avcAkIMUWw/0.jpg" alt="BGMI Frag Movie" width="300"/></a>
-      <p align="center"><a href="https://www.youtube.com/watch?v=5avcAkIMUWw">BGMI Frag Movie</a></p>
-    </td>
-  </tr>
-</table>
-
-</br>
-
 ### GIFs, Memes, and Jokes
 
 <details>
@@ -787,23 +669,23 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
 <h3 align="center">Top Artists of Playlist</h3>
 
 <div align="center">
-  <div style="text-align:center"><img src="https://card.elwan.ch/?username=31hah4yq6es2tjearprp6ir2bmhi" /></div>
+  <div style="text-align:center"><img src="https://card.elwan.ch/?username=315xd326gbkdyfhnaukj3elgzhzu" /></div>
 
   <table>
     <tr>
       <td>
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hah4yq6es2tjearprp6ir2bmhi&count=5">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=315xd326gbkdyfhnaukj3elgzhzu&count=5">
       </td>
       <td>
-        <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31hah4yq6es2tjearprp6ir2bmhi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315xd326gbkdyfhnaukj3elgzhzu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true">
       </td>
     </tr>
   </table>
 
   <details>
     <summary>View Data Card for Spotify</summary>
-    <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31hah4yq6es2tjearprp6ir2bmhi">
-      <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31hah4yq6es2tjearprp6ir2bmhi" alt="Data Card for Spotify">
+    <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=315xd326gbkdyfhnaukj3elgzhzu">
+      <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=315xd326gbkdyfhnaukj3elgzhzu" alt="Data Card for Spotify">
     </a>
   </details>
 </div>
@@ -816,7 +698,7 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
   <table align="center">
     <tr>
       <th align="center">
-        <a href="https://www.buymeacoffee.com/bhavishy2801" target="_blank">
+        <a href="https://www.buymeacoffee.com/Rocker2801" target="_blank">
           <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;">
         </a>
       </th>
