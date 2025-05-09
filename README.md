@@ -76,7 +76,7 @@ I am an adaptable developer with expertise in web, app, gnd game development, co
 
 <img src="https://github-readme-stats.vercel.app/api?username=bhavishy2801&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Bhavishy's GitHub stats">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhavishy2801&theme=highcontrast&hide_border=true">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhavishy2801&theme=highcontrast&hide_border=true" alt="Bhavishy's GitHub Summary">
 
 ### Top Repositories
 <div align="center">
@@ -133,9 +133,9 @@ I am an adaptable developer with expertise in web, app, gnd game development, co
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
   </summary>
   
-  <img src="https://myreadme.vercel.app/api/embed/bhavishy2801?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Bhavishy Agrawal's GitHub Stats">
-      <img src="https://github-readme-bento.vercel.app/stats/bhavishy2801?theme=dark" alt="Bhavishy's GitHub Stats">
-      <img src="https://stats.dooboo.io/api/github-stats-advanced?login=bhavishy2801" alt="Advanced GitHub Stats for Bhavishy Agrawal" width="400">
+  <img src="https://myreadme.vercel.app/api/embed/bhavishy2801?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Bhavishy's GitHub Stats">
+  <img src="https://github-readme-bento.vercel.app/stats/bhavishy2801?theme=dark" alt="Bhavishy's GitHub Stats">
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=bhavishy2801" alt="Advanced GitHub Stats for Bhavishy Agrawal" width="400">
 
 
 </details>
@@ -296,9 +296,9 @@ I am an adaptable developer with expertise in web, app, gnd game development, co
       Dev Profile
     </th>
     <!-- roadmap.sh Profile Header -->
-    <th align="center">
+<!--     <th align="center">
       roadmap.sh Profile
-    </th>
+    </th> -->
   </tr>
   <tr>
     <!-- Dev Profile -->
