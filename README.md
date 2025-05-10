@@ -134,6 +134,9 @@ I am an adaptable developer with expertise in web, app, and game development, co
   </summary>
   
   <!-- <img src="https://myreadme.vercel.app/api/embed/bhavishy2801?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Bhavishy's GitHub Stats"> -->
+  <a href='https://www.gitclear.com/snap_changelogs/b02dd34c-b375-42b5-a1c0-bbfaac42917b' target='_blank'><img src='https://www.gitclear.com/snap_changelogs/b02dd34c-b375-42b5-a1c0-bbfaac42917b.png' /></a>
+  <a href='https://www.gitclear.com/snap_changelogs/547b696c-4872-4b2c-90b7-c1e5079ac533' target='_blank'><img src='https://www.gitclear.com/snap_changelogs/547b696c-4872-4b2c-90b7-c1e5079ac533.png' /></a>
+  <a href='https://www.gitclear.com/snap_changelogs/46448a31-5a86-4785-8ec8-3457d925905c' target='_blank'><img src='https://www.gitclear.com/snap_changelogs/46448a31-5a86-4785-8ec8-3457d925905c.png' /></a>
   <img src="https://github-readme-bento.vercel.app/stats/bhavishy2801?theme=dark" alt="Bhavishy's GitHub Stats">
   <img src="https://stats.dooboo.io/api/github-stats-advanced?login=bhavishy2801" alt="Advanced GitHub Stats for Bhavishy Agrawal" width="400">
 
