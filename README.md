@@ -241,7 +241,7 @@ I am an adaptable developer with expertise in web, app, gnd game development, co
 </div>
   <h3>
     <a href="https://discordapp.com/users/rocker1647">
-      Join Our Discord Community
+      Connect with me on Discord
     </a>
   </h3>
 
@@ -657,8 +657,8 @@ I am an adaptable developer with expertise in web, app, gnd game development, co
 Explore my meticulously curated Spotify playlist, composed entirely of exceptional copyright-free music. It's perfectly suited for enhancing focus during coding sessions, fueling creativity, or simply unwinding. Each track has been selected to ensure an uninterrupted, high-quality audio experience.
 <h5 align="center">Enjoy the tunes!</h5>
 <p align="center">
-<a href="https://open.spotify.com/playlist/3ilkWwO6fhn43pkqKXn1Px?si=f04db909fd8342eb" target="_blank">
-  <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siSpotify&subtitle=My+Playlist&size=wide" alt="My Playlist">
+<a href="https://open.spotify.com/user/315xd326gbkdyfhnaukj3elgzhzu?si=5f9b6d62ad3a4618" target="_blank">
+  <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siSpotify&subtitle=My+Profile&size=wide" alt="My Prifile">
 </a>
 
 
