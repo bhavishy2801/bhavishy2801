@@ -270,7 +270,7 @@ I am an adaptable developer with expertise in web, app, gnd game development, co
 
 <h3 align="center">YouTube Stats</h3>
 
-[![Youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCJmBG8lD1-aj1HQr4PFT-XQ&layout=extruded&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)](https://www.youtube.com/@JEEzy0128)
+[![Youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCt5ulgFmqVAYB2-OXNswXUw&layout=extruded&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)](https://www.youtube.com/@JEEzy0128)
 <h3 align="center">Leetcode Stats</h3>
 <p align="center">
   <img align="center" src="https://leetcard.jacoblin.cool/bhavishy2801?ext=heatmap"/>
