@@ -47,7 +47,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-I am an adaptable developer with expertise in web, app, gnd game development, combined with a strong foundation in competitive programming. Beyond coding, I am also skilled in video editing, photo editing, and 3D modeling, using a variety of software. My passion lies in creating visually appealing and technically efficient projects, whether it's a high-performance application, an immersive game, or stunning visual content.
+I am an adaptable developer with expertise in web, app, and game development, combined with a strong foundation in competitive programming. Beyond coding, I am also skilled in video editing, photo editing, and 3D modeling, using a variety of software. My passion lies in creating visually appealing and technically efficient projects, whether it's a high-performance application, an immersive game, or stunning visual content.
 
 <h3 align="center">Git Stats</h3>
 
@@ -134,7 +134,7 @@ I am an adaptable developer with expertise in web, app, gnd game development, co
   </summary>
   
   <img src="https://myreadme.vercel.app/api/embed/bhavishy2801?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Bhavishy's GitHub Stats">
-  <img src="https://github-readme-bento.vercel.app/stats/bhavishy2801?theme=dark" alt="Bhavishy's GitHub Stats">
+  <!-- <img src="https://github-readme-bento.vercel.app/stats/bhavishy2801?theme=dark" alt="Bhavishy's GitHub Stats"> -->
   <img src="https://stats.dooboo.io/api/github-stats-advanced?login=bhavishy2801" alt="Advanced GitHub Stats for Bhavishy Agrawal" width="400">
 
 
