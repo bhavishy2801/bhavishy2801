@@ -25,7 +25,7 @@
   <h2>🌐 Connect with Me</h2>
   <p>Discover my work and connect on these platforms!</p>
 
- | Bhavishy Agrawal | YouTube | Instagram | LinkedIn | Facebook |
+ | Gmail | YouTube | Instagram | LinkedIn | Facebook |
 | --- | --- | --- | --- | --- |
 | [![Gmail](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siGmail&subtitle=Bhavishy+Agrawal&size=square)](mailto:bhavishyrocker2801@gmail.com) | [![JEEzy0128](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40JEEzy0128&subtitle=@JEEzy0128&size=square)](https://www.youtube.com/@JEEzy0128) | [![celexa.fr_2801](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fcelexa.fr_2801%2F&subtitle=@celexa.fr_2801&size=square)](https://www.instagram.com/celexa.fr_2801/) | [![Bhavishy Agrawal](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbhavishy2801%2F&subtitle=@bhavishy2801&size=square)](https://www.linkedin.com/in/bhavishy2801/) | [![Bhavishy Agrawal](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fbhavishy2801&subtitle=@bhavishy2801&size=square)](https://facebook.com/bhavishy2801) |
 
