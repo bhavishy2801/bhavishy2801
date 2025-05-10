@@ -540,7 +540,7 @@ I am an adaptable developer with expertise in web, app, and game development, co
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png" alt="LangChain" width="80" height="50"/><br>LangChain
       </td>
       <td align="center" style="border: none;">
-        <img src="https://ollama.ai/public/ollama.png" alt="Ollama" width="50" height="60"/><br>Ollama
+        <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.45.0/files/dark/ollama.png" alt="Ollama" width="50" height="60"/><br>Ollama
       </td>
   <td align="center" style="border: none;">
         <img src="https://github.com/run-llama/logos/blob/main/LlamaLogo%20Square.png" alt="LlamaIndex" width="50" height="50"/><br>LlamaIndex
