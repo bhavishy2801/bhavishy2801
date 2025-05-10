@@ -437,16 +437,33 @@ I am an adaptable developer with expertise in web, app, and game development, co
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000" width="50" height="50" alt="Node.js"/><br>Flutter
+        <img src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000" width="50" height="50" alt="Flutter"/><br>Flutter
       </td>
       <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" alt="Django"/><br>Django
+        <img src="https://img.icons8.com/?size=100&id=YYYhFVbH4vFv&format=png&color=ffffff" width="50" height="50" alt="React Native"/><br>React Native
       </td>
       <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask"/><br>Flask
+        <img src="https://img.icons8.com/?size=100&id=gFw7X5Tbl3ss&format=png&color=000000" width="50" height="50" alt="Material UI"/><br>Material UI
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: white;">Backend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://img.icons8.com/?size=100&id=ROMfFZ1tMhpk&format=png&color=000000" width="50" height="50" alt="Firebase"/><br>Firebase
       </td>
       <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express
+        <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="50" height="50" alt="React Native"/><br>Go
       </td>
     </tr>
   </tbody>
