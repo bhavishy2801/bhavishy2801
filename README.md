@@ -182,14 +182,14 @@ I am an adaptable developer with expertise in web, app, and game development, co
 <table>
   <tr>
     <td align="center" width="300" height="200">
-      <img src="https://github.com/bhavishy2801/whispr/blob/main/assets/whispr.png"  alt="Whispr"/>
+      <a href="https://github.com/bhavishy2801/whispr"><img src="https://github.com/bhavishy2801/whispr/blob/main/assets/whispr.png"  alt="Whispr"/></a>
       <br>
       <strong>Whispr</strong>
       <br>
       A minimalist messenger application completely made in C
     </td>
     <td align="center" width="300" height="200">
-      <img src="https://github.com/bhavishy2801/portfolio/blob/main/public/assets/portfolio.jpeg"  alt="Portfolio"/>
+      <a href="https://bhavishyagrawal.vercel.app/"><img src="https://github.com/bhavishy2801/portfolio/blob/main/public/assets/portfolio.jpeg"  alt="Portfolio"/></a>
       <br>
       <strong>Portfolio</strong>
       <br>
