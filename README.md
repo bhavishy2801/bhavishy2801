@@ -468,6 +468,9 @@ I am an adaptable developer with expertise in web, app, and game development, co
         <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" alt="Pandas" width="80" height="50"/><br>Pandas
       </td>
       <td align="center" style="border: none;">
+        <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" alt="Matplotlib" width="80" height="50"/><br>Matplotlib
+      </td>
+      <td align="center" style="border: none;">
 <!--         <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="50" height="50"/> -->
         <img src="https://github.com/bhavishy2801/bhavishy2801/blob/main/icons/Tensorflow.gif" alt="TensorFlow" width="80" height="70" /><br>TensorFlow
       </td>
