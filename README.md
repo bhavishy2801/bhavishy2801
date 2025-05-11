@@ -49,295 +49,7 @@
 
 I am an adaptable developer with expertise in web, app, and game development, combined with a strong foundation in competitive programming. Beyond coding, I am also skilled in video editing, photo editing, and 3D modeling, using a variety of software. My passion lies in creating visually appealing and technically efficient projects, whether it's a high-performance application, an immersive game, or stunning visual content.
 
-<h3 align="center">Git Stats</h3>
-
-<div align="center">
- 
-  <img src="https://streak-stats.demolab.com/?user=bhavishy2801&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
-  <br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavishy2801&custom_title=Bhavishy's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
-<br>
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavishy2801&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhavishy2801&theme=highcontrast&hide_border=true" alt="Repos Per Language">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhavishy2801&theme=highcontrast&hide_border=true" alt="Most Commit Language">
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<img src="https://github-readme-stats.vercel.app/api?username=bhavishy2801&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Bhavishy's GitHub stats">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhavishy2801&theme=highcontrast&hide_border=true" alt="Bhavishy's GitHub Summary">
-
-### Top Repositories
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/bhavishy2801/whispr">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhavishy2801&repo=whispr&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/bhavishy2801/portfolio">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhavishy2801&repo=portfolio&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/Eternity0207/IAmArsh">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eternity0207&repo=IAmArsh&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Eternity0207/Typer-X">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eternity0207&repo=Typer-X&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/Eternity0207/postverse-anime">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eternity0207&repo=postverse-anime&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Eternity0207/volunteersiitj">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eternity0207&repo=volunteersiitj&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-
-### GitHub Contribution Chart
-<a href="https://github.com/bhavishy2801">
-    <img src="https://ghchart.rshah.org/bhavishy2801" alt="Bhavishy Agrawal's GitHub Contribution Chart">
-</a>
-
-
-<details>
-  <summary style="font-size: 1.17em; font-weight: bold;">
-    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
-  </summary>
-  
-  <!-- <img src="https://myreadme.vercel.app/api/embed/bhavishy2801?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Bhavishy's GitHub Stats"> -->
-  <img src="https://github-readme-bento.vercel.app/stats/bhavishy2801?theme=dark" alt="Bhavishy's GitHub Stats">
-  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=bhavishy2801" alt="Advanced GitHub Stats for Bhavishy Agrawal" width="400">
-
-
-</details>
-
-
-<br>
-
-### bhavishy2801/README.md activity
-<img width="100%" src="https://repobeats.axiom.co/api/embed/48c98af9cae40b4ae2cf354a0f544a52eb743a9f.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
-
-[![Forkers repo roster for @bhavishy2801/bhavishy2801](https://reporoster.com/forks/dark/bhavishy2801/bhavishy2801)](https://github.com/bhavishy2801/bhavishy2801/network/members)
-
-[![Repography](https://reporoster.com/stars/dark/bhavishy2801/bhavishy2801)](https://github.com/bhavishy2801/bhavishy2801)
-
-<details>
-  <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for Bhavishy&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
-
-  <h2>Star History Chart</h2>
-  <a href="https://star-history.com/#bhavishy2801/bhavishy2801&Date">
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=bhavishy2801/bhavishy2801&type=Date&theme=dark" />
-  </a>
-
-</details>
-
-
-<br>
-<details>
-  <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
-  <br>
-    <img src="https://github-profile-trophy.vercel.app/?username=bhavishy2801&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy">
-  <img src="https://stats.dooboo.io/api/github-trophies?login=bhavishy2801" alt="GitHub Trophies for bhavishy2801">
-</details>
-
-
-
-</div>
-
-<br>
-
-## 🏆 Featured Projects
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="300" height="200">
-      <a href="https://github.com/bhavishy2801/whispr"><img src="https://github.com/bhavishy2801/whispr/blob/main/assets/whispr.png"  alt="Whispr"/></a>
-      <br>
-      <strong>Whispr</strong>
-      <br>
-      A minimalist messenger application completely made in C
-    </td>
-    <td align="center" width="300" height="200">
-      <a href="https://bhavishyagrawal.vercel.app/"><img src="https://github.com/bhavishy2801/portfolio/blob/main/public/assets/portfolio.jpeg"  alt="Portfolio"/></a>
-      <br>
-      <strong>Portfolio</strong>
-      <br>
-      My Portfolio Website
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-  <h2 align="center" style="display: inline-flex; align-items: baseline;">
-    Socials Stats <img src="https://github.com/bhavishy2801/bhavishy2801/blob/main/icons/connect.gif" height="30" style="margin-left: 5px;" />
-  </h2>
-</div>
-
-<div align="center">
-  <div align="center">
-    <a href="https://www.instagram.com/celexa.fr_2801/" target="_blank">
-          <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/>
-        </a>
-    <h3>
-     <a href="https://www.instagram.com/celexa.fr_2801/" target="_blank" style="color: #e4405f; text-decoration: none; font-weight: bold;">
-  Follow Me on Instagram
-</a>
-    </h3>
-  </div>
-  <table>
-    <tr>
-      <td align="center" style="border: none;">
-        <div>
-          <img src="https://img.shields.io/badge/Instagram-0%20posts-e4405f?style=flat-square&logo=instagram" alt="Instagram Posts">
-          <img src="https://img.shields.io/badge/Instagram-522%20followers-e4405f?style=flat-square&logo=instagram" alt="Instagram Followers">
-        </div>
-      </td>
-    </tr>
-  </table>
-  
-</div>
-<div align="center">
-
-
-<div align="center">
-
-<div align="center">
-<img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord Logo"/>
-</div>
-  <h3>
-    <a href="https://discordapp.com/users/rocker1647">
-      Connect with me on Discord
-    </a>
-  </h3>
-
-</div>
-<!-- <table>
-  <tr>
-    <!-- Discord Widget Column
-    <td align="center" style="border: none;">
-      <a href="https://discordapp.com/users/rocker1647">
-        <img src="https://invidget.switchblade.xyz/rocker1647" alt="Discord Widget">
-      </a>
-    </td>
-    <!-- Discord Banner Column
-    <td align="center" style="border: none;">
-      <img src="https://discord.com/api/guilds//widget.png?style=banner3" alt="Discord Banner 3"/>
-    </td>
-    <!-- Discord Presence Column
-    <td align="center" style="border: none;">
-      <a href="https://discord.com/users/rocker1647">
-        <img src="https://lanyard.cnrad.dev/api/424279823817375746" alt="Discord Presence">
-      </a>
-    </td>
-  </tr>
-</table> -->
-
-
-<h3 align="center">YouTube Stats</h3>
-
-[![Youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCt5ulgFmqVAYB2-OXNswXUw&layout=extruded&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)](https://www.youtube.com/@JEEzy0128)
-<h3 align="center">Leetcode Stats</h3>
-<p align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/bhavishy2801?ext=heatmap"/>
-</p>
-
-<h3 align="center">Steam Profile</h3>
-<p align="center">
-  <a href="https://steamcommunity.com/profiles/76561199219499101/">
-  <img align="center" src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199219499101&show_in_game_bg=true&show_recent_game_bg=true"/>
-  </a>
-</p>
-
-<h3 align="center">Latest Dev.to</h3>
-
-![Latest Dev.to](https://latest-devto-post.vercel.app/api?username=bhavishy2801)
-
-<br/>
-
-<table>
-  <tr>
-    <!-- Dev Profile Header -->
-    <th align="center">
-      Dev Profile
-    </th>
-    <!-- roadmap.sh Profile Header -->
-<!--     <th align="center">
-      roadmap.sh Profile
-    </th> -->
-  </tr>
-  <tr>
-    <!-- Dev Profile -->
-    <td align="center">
-     <a href="https://app.daily.dev/bhavishy2801"><img src="https://api.daily.dev/devcards/v2/Qjl2LwMcMFYfEUZWmm86K.png?type=default&r=gnk" width="356" alt="Bhavishy's Dev Card"/></a>
-    </td>
-    <!-- roadmap.sh Profile -->
-<!--     <td align="center">
-      <a href="https://roadmap.sh/u/bhavishy2801"><img src="https://roadmap.sh/card/tall/66832f0ad270cc49a6b89a26?variant=dark" alt="roadmap.sh"/></a>   
-    </td> -->
-  </tr>
-</table>
-
-<h3 align="center">Stardev.io</h3>
-
-<a href="https://stardev.io/developers/bhavishy2801"><img alt="Check out bhavishy2801&apos;s profile on stardev.io" src="https://stardev.io/developers/bhavishy2801/badge/languages/global.svg" /></a>
-
-
-<h3 align="center">Stack Overflow</h3>
-
-<table>
-  <tr>
-    <th colspan="2">Stack Overflow</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://stackoverflow.com/users/30492551/bhavishy-agrawal">
-        <img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=30492551" alt="Stack Overflow Card for bhavishy2801">
-      </a>
-    </td>
-    <td>
-      <img src="https://github-stackoverflow-readme.vercel.app/?userId=30492551" alt="Stack Overflow Stats for Bhavishy">
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
+<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stacks</h1>
 
 <h3 align="center">Web Development</h3>
 
@@ -652,6 +364,293 @@ I am an adaptable developer with expertise in web, app, and game development, co
   </table>
 </div>
 
+<h3 align="center">Git Stats</h3>
+
+<div align="center">
+ 
+  <img src="https://streak-stats.demolab.com/?user=bhavishy2801&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <br>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavishy2801&custom_title=Bhavishy's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+<br>
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavishy2801&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhavishy2801&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhavishy2801&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=bhavishy2801&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Bhavishy's GitHub stats">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhavishy2801&theme=highcontrast&hide_border=true" alt="Bhavishy's GitHub Summary">
+
+### Top Repositories
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/bhavishy2801/whispr">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhavishy2801&repo=whispr&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/bhavishy2801/portfolio">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhavishy2801&repo=portfolio&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Eternity0207/IAmArsh">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eternity0207&repo=IAmArsh&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Eternity0207/Typer-X">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eternity0207&repo=Typer-X&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Eternity0207/postverse-anime">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eternity0207&repo=postverse-anime&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Eternity0207/volunteersiitj">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eternity0207&repo=volunteersiitj&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+### GitHub Contribution Chart
+<a href="https://github.com/bhavishy2801">
+    <img src="https://ghchart.rshah.org/bhavishy2801" alt="Bhavishy Agrawal's GitHub Contribution Chart">
+</a>
+
+
+<details>
+  <summary style="font-size: 1.17em; font-weight: bold;">
+    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
+  </summary>
+  
+  <!-- <img src="https://myreadme.vercel.app/api/embed/bhavishy2801?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Bhavishy's GitHub Stats"> -->
+  <img src="https://github-readme-bento.vercel.app/stats/bhavishy2801?theme=dark" alt="Bhavishy's GitHub Stats">
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=bhavishy2801" alt="Advanced GitHub Stats for Bhavishy Agrawal" width="400">
+
+
+</details>
+
+
+<br>
+
+### bhavishy2801/README.md activity
+<img width="100%" src="https://repobeats.axiom.co/api/embed/48c98af9cae40b4ae2cf354a0f544a52eb743a9f.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
+
+[![Forkers repo roster for @bhavishy2801/bhavishy2801](https://reporoster.com/forks/dark/bhavishy2801/bhavishy2801)](https://github.com/bhavishy2801/bhavishy2801/network/members)
+
+[![Repography](https://reporoster.com/stars/dark/bhavishy2801/bhavishy2801)](https://github.com/bhavishy2801/bhavishy2801)
+
+<details>
+  <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for Bhavishy&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
+
+  <h2>Star History Chart</h2>
+  <a href="https://star-history.com/#bhavishy2801/bhavishy2801&Date">
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=bhavishy2801/bhavishy2801&type=Date&theme=dark" />
+  </a>
+
+</details>
+
+
+<br>
+<details>
+  <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
+  <br>
+    <img src="https://github-profile-trophy.vercel.app/?username=bhavishy2801&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy">
+  <img src="https://stats.dooboo.io/api/github-trophies?login=bhavishy2801" alt="GitHub Trophies for bhavishy2801">
+</details>
+
+
+
+</div>
+
+<br>
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="300" height="200">
+      <a href="https://github.com/bhavishy2801/whispr"><img src="https://github.com/bhavishy2801/whispr/blob/main/assets/whispr.png"  alt="Whispr"/></a>
+      <br>
+      <strong>Whispr</strong>
+      <br>
+      A minimalist messenger application completely made in C
+    </td>
+    <td align="center" width="300" height="200">
+      <a href="https://bhavishyagrawal.vercel.app/"><img src="https://github.com/bhavishy2801/portfolio/blob/main/public/assets/portfolio.jpeg"  alt="Portfolio"/></a>
+      <br>
+      <strong>Portfolio</strong>
+      <br>
+      My Portfolio Website
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+  <h2 align="center" style="display: inline-flex; align-items: baseline;">
+    Socials Stats <img src="https://github.com/bhavishy2801/bhavishy2801/blob/main/icons/connect.gif" height="30" style="margin-left: 5px;" />
+  </h2>
+</div>
+
+<div align="center">
+  <div align="center">
+    <a href="https://www.instagram.com/celexa.fr_2801/" target="_blank">
+          <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/>
+        </a>
+    <h3>
+     <a href="https://www.instagram.com/celexa.fr_2801/" target="_blank" style="color: #e4405f; text-decoration: none; font-weight: bold;">
+  Follow Me on Instagram
+</a>
+    </h3>
+  </div>
+  <table>
+    <tr>
+      <td align="center" style="border: none;">
+        <div>
+          <img src="https://img.shields.io/badge/Instagram-0%20posts-e4405f?style=flat-square&logo=instagram" alt="Instagram Posts">
+          <img src="https://img.shields.io/badge/Instagram-522%20followers-e4405f?style=flat-square&logo=instagram" alt="Instagram Followers">
+        </div>
+      </td>
+    </tr>
+  </table>
+  
+</div>
+<div align="center">
+
+
+<div align="center">
+
+<div align="center">
+<img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord Logo"/>
+</div>
+  <h3>
+    <a href="https://discordapp.com/users/rocker1647">
+      Connect with me on Discord
+    </a>
+  </h3>
+
+</div>
+<!-- <table>
+  <tr>
+    <!-- Discord Widget Column
+    <td align="center" style="border: none;">
+      <a href="https://discordapp.com/users/rocker1647">
+        <img src="https://invidget.switchblade.xyz/rocker1647" alt="Discord Widget">
+      </a>
+    </td>
+    <!-- Discord Banner Column
+    <td align="center" style="border: none;">
+      <img src="https://discord.com/api/guilds//widget.png?style=banner3" alt="Discord Banner 3"/>
+    </td>
+    <!-- Discord Presence Column
+    <td align="center" style="border: none;">
+      <a href="https://discord.com/users/rocker1647">
+        <img src="https://lanyard.cnrad.dev/api/424279823817375746" alt="Discord Presence">
+      </a>
+    </td>
+  </tr>
+</table> -->
+
+
+<h3 align="center">YouTube Stats</h3>
+
+[![Youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCt5ulgFmqVAYB2-OXNswXUw&layout=extruded&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)](https://www.youtube.com/@JEEzy0128)
+<h3 align="center">Leetcode Stats</h3>
+<p align="center">
+  <img align="center" src="https://leetcard.jacoblin.cool/bhavishy2801?ext=heatmap"/>
+</p>
+
+<h3 align="center">Steam Profile</h3>
+<p align="center">
+  <a href="https://steamcommunity.com/profiles/76561199219499101/">
+  <img align="center" src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199219499101&show_in_game_bg=true&show_recent_game_bg=true"/>
+  </a>
+</p>
+
+<h3 align="center">Latest Dev.to</h3>
+
+![Latest Dev.to](https://latest-devto-post.vercel.app/api?username=bhavishy2801)
+
+<br/>
+
+<table>
+  <tr>
+    <!-- Dev Profile Header -->
+    <th align="center">
+      Dev Profile
+    </th>
+    <!-- roadmap.sh Profile Header -->
+<!--     <th align="center">
+      roadmap.sh Profile
+    </th> -->
+  </tr>
+  <tr>
+    <!-- Dev Profile -->
+    <td align="center">
+     <a href="https://app.daily.dev/bhavishy2801"><img src="https://api.daily.dev/devcards/v2/Qjl2LwMcMFYfEUZWmm86K.png?type=default&r=gnk" width="356" alt="Bhavishy's Dev Card"/></a>
+    </td>
+    <!-- roadmap.sh Profile -->
+<!--     <td align="center">
+      <a href="https://roadmap.sh/u/bhavishy2801"><img src="https://roadmap.sh/card/tall/66832f0ad270cc49a6b89a26?variant=dark" alt="roadmap.sh"/></a>   
+    </td> -->
+  </tr>
+</table>
+
+<h3 align="center">Stardev.io</h3>
+
+<a href="https://stardev.io/developers/bhavishy2801"><img alt="Check out bhavishy2801&apos;s profile on stardev.io" src="https://stardev.io/developers/bhavishy2801/badge/languages/global.svg" /></a>
+
+
+<h3 align="center">Stack Overflow</h3>
+
+<table>
+  <tr>
+    <th colspan="2">Stack Overflow</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://stackoverflow.com/users/30492551/bhavishy-agrawal">
+        <img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=30492551" alt="Stack Overflow Card for bhavishy2801">
+      </a>
+    </td>
+    <td>
+      <img src="https://github-stackoverflow-readme.vercel.app/?userId=30492551" alt="Stack Overflow Stats for Bhavishy">
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ### GIFs, Memes, and Jokes
 
