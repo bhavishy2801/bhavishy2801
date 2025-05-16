@@ -410,8 +410,8 @@ I am an adaptable developer with expertise in web, app, and game development, co
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/Eternity0207/IAmArsh">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eternity0207&repo=IAmArsh&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/bhavishy2801/jeezy">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhavishy2801&repo=jeezy&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
