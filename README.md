@@ -755,7 +755,7 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
         </a>
       </th>
       <th align="center">
-        <img src="https://github.com/bhavishy2801/bhavishy2801/assets/123521687/bmc_qr.png" alt="Buy Me a Coffee QR Code" width="150" height="150">
+        <img src="https://github.com/bhavishy2801/bhavishy2801/assets/bmc_qr.png" alt="Buy Me a Coffee QR Code" width="150" height="150">
       </th>
     </tr>
   </table>
