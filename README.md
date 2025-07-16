@@ -750,34 +750,13 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
         </a>
       </th>
       <th align="center">
-        <a href="https://www.paypal.com/donate/?business=V6UVH9LBFUF26&no_recurring=0&currency_code=CAD" target="_blank">
-          <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" style="height: 90px; width: 217px;">
-        </a>
-      </th>
-      <th align="center">
-        <a href="https://donate.stripe.com/00gg0R3Kvh0HcGkfYY" target="_blank">
-          <img src="https://github.com/user-attachments/assets/1b7f4d55-f85c-47ac-adcc-05d9f7cd8134" alt="Donate with Stripe" style="height: 60px; width="200px">
-        </a>
-      </th>
-      <th align="center">
-        <a href="https://ko-fi.com/M4M410M65J" target="_blank">
+        <a href="https://ko-fi.com/bhavishy2801" target="_blank">
           <img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
         </a>
       </th>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/bhavishy2801/bhavishy2801/assets/123521687/72e4f7a9-a7fd-45d6-b582-ca4c8a1f2a36" alt="Buy Me a Coffee QR Code" width="150" height="150">
-      </td>
-      <td align="center">
-       <img src="https://github.com/bhavishy2801/bhavishy2801/assets/123521687/0a08e987-d7f8-48bd-a5a4-2c991190f9af" alt="PayPal QR Code" width="150" height="150">
-      </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/f7f4fefb-1a07-4390-b2ea-a4b40d4f19f6" alt="Stripe QR Code" width="150" height="150">
-      </td>
-      <td align="center">
-        <img src="https://storage.ko-fi.com/cdn/useruploads/M4M410M65J/qrcode.png?v=73a1af41-4248-463b-a7e8-77530b34d420?v=2" alt="Ko-fi QR Code" width="150" height="150">
-      </td>
+      <th align="center">
+        <img src="https://github.com/bhavishy2801/bhavishy2801/assets/123521687/bmc_qr.png" alt="Buy Me a Coffee QR Code" width="150" height="150">
+      </th>
     </tr>
   </table>
 
