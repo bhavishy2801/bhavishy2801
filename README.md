@@ -92,8 +92,8 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://bhavishy-stats.vercel.app/api?username=bhavishy2801&show_icons=true&theme=radical))
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavishy2801&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://bhavishy-stats.vercel.app/api/top-langs/?username=bhavishy2801&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavishy2801&layout=compact&theme=tokyonight)
 
 ---
