@@ -92,8 +92,13 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavishy2801&show_icons=true&theme=tokyonight)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhavishy2801&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavishy2801&layout=compact&theme=tokyonight)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhavishy2801&theme=tokyonight)
+
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bhavishy2801&theme=tokyonight)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhavishy2801&theme=tokyo-night)
+
 
 ---
