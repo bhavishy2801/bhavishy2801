@@ -1,6 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 <img src="assets/resume.jpg" alt="My Resume">
 
+## My Holopins:
+[![An image of @bhavishy2801's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhavishy2801)](https://holopin.io/@bhavishy2801)
+
 ## GitHub Activity Graph:
 
 <p align="center">
